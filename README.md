@@ -6,3 +6,5 @@ This is a model that was adapted from a model for smallpox vaccination. I added 
 The model consists of 2 Mathematica notebooks. I have uploaded now the notebook that calculates basic and effective reproduction numbers, exponential growth rates, and doubling times. The second notebook, which I will upload soon, is the dynamic part, which allows for simulation of the branching process. 
 
 In the version of 6-5-2020 I added a weighting function to account for the fraction of onward transmission of an infected contact person that is prevented by tracing and isolating the contact person. 
+
+The notebooks rzero_corona_final.nb and rzero_corona_hypercube.nb were used to create the results of the paper "Impact of delays on effectiveness of contact tracing strategies for COVID-19: a modelling study", which will shortly be published in the Lancet Public Health.
